@@ -1,0 +1,13 @@
+{
+  "name": "challenge_module_01",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Challenge developed for the RocketSeat Node Course",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
