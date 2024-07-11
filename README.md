@@ -1,1 +1,1 @@
-Projeto feito com NodeJS sem uso de frameworks ou banco de dados
+CRUD made with nodejs without frameworks or databases
